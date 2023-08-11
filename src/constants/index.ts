@@ -1,0 +1,42 @@
+
+
+export const LINKS = {
+    AUTH_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKTU',
+    EMAIL: 'mailto:admin@crafthire.online',
+    GOOGLE_MEET: 'https://meet.google.com/uoq-khoy-tpu',
+    MAIL_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zCb29Y',
+    MEETING_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXm',
+    PAYMENT_DOCUMENTATION: '',
+    PHONE_CALL: 'tel:+2349999999999',
+    PROJECT_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXn',
+    SMS: 'sms:+2349999999999',
+    TEAM_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXp',
+    USERCLIENT_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXq',
+    USERPROJECT_MANAGER_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXr',
+    USERTALENT_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXv',
+    USER_DOCUMENTATION: 'https://documenter.getpostman.com/view/24521226/2s93zFXKXu',
+    WHATSAPP_CALL: 'https://wa.me/2349999999999',
+    WHATSAPP_CHAT: 'https://wa.me/2349999999999',
+    ZOOM: 'https://zoom.us/j/9999999999',
+}
+
+export const MESSAGES = {
+    ALREADY_EXISTS: "Resource already exists",
+    ASSIGNED: "Resource assigned successfully",
+    AUTH_DEFAULT: "",
+    CREATED: "Resource created successfully",
+    DEFAULT: "Request received successfully",
+    DELETED: "Resource deleted successfully",
+    ERROR: "Resource error",
+    FETCHED: "Resource fetched successfully",
+    LOGGED_IN: "Successfully logged in",
+    LOGIN_FAILURE: "Unable to login. Username or password incorrect",
+    LOGIN_FIRST: "Error! Login first",
+    LOGOUT: "Successfully logged out! Have a nice day",
+    MAIL_SENT: "Mail sent successfully",
+    NOT_FOUND: "Resource not found",
+    UPDATED: "Resource updated successfully",
+    USER_ALREADY_EXISTS: "User already exists",
+    USER_NOT_FOUND: "User not found",
+    USER_UNAUTHORIZED: "You are unauthorized to perform this operation",
+}
