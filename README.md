@@ -1,6 +1,6 @@
 # TypeScript API for Cloudinary Image Upload
 
-This repository contains the backend for a TypeScript-based image uploader that integrates with the Cloudinary service. It provides a simple API for uploading images to Cloudinary.
+This repository contains the code for a TypeScript-based image uploader that integrates with the Cloudinary service. It provides a simple API for uploading images to Cloudinary.
 
 ## Table of Contents
 
