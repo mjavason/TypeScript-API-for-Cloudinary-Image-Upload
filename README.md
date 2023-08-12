@@ -104,7 +104,7 @@ Upon a successful image upload, you'll receive a response from Cloudinary with d
 }
 ```
 
-Please replace placeholders like `your-username`, `your-cloud-name`, `your-api-key`, and `your-api-secret` with the actual values from your Cloudinary account and GitHub repository. Adjust the README as needed to include any additional information you'd like to provide.
+
 
 ## Contributing
 
