@@ -29,7 +29,7 @@ npm install -g typescript
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/TypeScript-Cloudinary-Image-Uploader.git
+   git clone https://github.com/your-username/TypeScript-API-for-Cloudinary-Image-Uploader.git
    ```
 
 2. Navigate to the project folder:
